@@ -1,0 +1,2 @@
+# Visualizing-Maji-Ndogo-Access-to-Drinking-Water-Data-Analysis-Project
+This project examines worldwide access to safe, affordable drinking water, aligning with United Nations Sustainable Development Goal 6 (SDG 6: Clean Water and Sanitation), and draws on data from UN sources. It analyzes global disparities in clean water availability, to highlight progress, challenges, and inequities in sanitation and water quality.
